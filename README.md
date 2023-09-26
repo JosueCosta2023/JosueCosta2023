@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosueCosta2023&show_icons=true&theme=radical)
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JosueCosta2023)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JosueCosta2023)](https://github.com/JosueCosta2023/github-readme-stats)
 
 
     
