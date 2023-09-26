@@ -8,7 +8,7 @@
 &layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source
