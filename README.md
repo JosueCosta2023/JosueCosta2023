@@ -7,8 +7,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueCosta2023
 &layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 <picture>
   <source
