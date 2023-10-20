@@ -4,10 +4,10 @@
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=JosueCosta2023" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JosueCosta2023&layout=compact&langs_count=8&card_width=50%" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JosueCosta2023&layout=compact&langs_count=8&card_width=50%" />
 </a>
  
-### Minhas Redes Sociais!
+### Skills and Social Midia !
 <div align="center">
   <div style="margin-botton:30px;">
     <img align="center" alt="Js" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
