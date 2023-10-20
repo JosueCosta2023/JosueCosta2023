@@ -17,8 +17,8 @@
 
   <br>
   <br>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank" height="30"></a>
+ <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank" height="30"></a>
   <a href = "mailto:contato_josuecosta@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30"></a>
-  <a href="https://www.linkedin.com/in/josue-ocanha-costa-09b9a4166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30"></a>
+  <a href="https://www.linkedin.com/in/josue-ocanha-costa-09b9a4166/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30"></a>
 
 </div>
