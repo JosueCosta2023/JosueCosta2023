@@ -22,3 +22,4 @@
   <a href="https://www.linkedin.com/in/josue-ocanha-costa-09b9a4166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30"></a>
 
 </div>
+
