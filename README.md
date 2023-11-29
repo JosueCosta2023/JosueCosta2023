@@ -1,5 +1,6 @@
 ## Bem-vindo(a) ao meu perfil 😁
-    
+
+ 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=JosueCosta2023" />
 </a>
@@ -17,9 +18,10 @@
 
   <br>
   <br>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank" height="30"></a>
-  <a href = "mailto:contato_josuecosta@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank" height="30"></a>
-  <a href="https://www.linkedin.com/in/josue-ocanha-costa-09b9a4166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30"></a>
+ <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank" height="30"></a>
+  <a href = "mailto:contato_josuecosta@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30"></a>
+  <a href="https://www.linkedin.com/in/josue-ocanha-costa-09b9a4166/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30"></a>
+  <a href="https://wa.me/+5565993408371" title="WhatsApp" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 </div>
-
