@@ -18,6 +18,8 @@
     <img align="center" alt="express" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg ">
     <img align="center" alt="REACT" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="PRISMA" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
+    <img align="center" alt="git" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="swagger" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
   </div>
 
   <br>
