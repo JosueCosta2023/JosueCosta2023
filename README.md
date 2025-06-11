@@ -4,9 +4,9 @@
 
 💡 Atualmente focado em **React**, **TypeScript**, **Power BI** e **Projetos FullStack**  
 
-🎓 MBA em Gestão de Tecnologia da Informação
-
 🚀 Estudando **IA e Machine Learning** na pós-graduação
+
+🎓 MBA em Gestão de Tecnologia da Informação
 
 🍕 Apaixonado por transformar ideias em sistemas úteis 
 
