@@ -1,35 +1,66 @@
-## Bem-vindo(a) ao meu perfil 😁
+# 👋 Olá, eu sou o Josué!
 
- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=JosueCosta2023" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JosueCosta2023&layout=compact&langs_count=8&card_width=50%" />
-</a>
- 
-### Skills and Social Midia !
-<div align="center" style="display:flex; flex-direction:column; gap:10px;">
-  <div>
-    <img align="center" alt="Js" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-    <img align="center" alt="Ts" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg ">
-    <img align="center" alt="HTML" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
-    <img align="center" alt="CSS" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-  </div>
-  <br>
-  <div>
-  <img align="center" alt="express" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg ">
-    <img align="center" alt="REACT" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="PRISMA" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-    <img align="center" alt="git" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  </div>
+↗🆙 Em transição de carreira: de **Infraestrutura de T.I.** para **Desenvolvimento Web**  
 
-  <br>
-  <br>
- <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank" height="30"></a>
-  <a href = "mailto:contato_josuecosta@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30"></a>
-  <a href="https://www.linkedin.com/in/josue-ocanha-costa-09b9a4166/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30"></a>
-  <a href="https://wa.me/+5565993408371" title="WhatsApp" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+💡 Atualmente focado em **React**, **TypeScript**, **Power BI** e **Projetos FullStack**  
 
-</div>
+🎓 MBA em Gestão de Tecnologia da Informação
+
+🚀 Estudando **IA e Machine Learning** na pós-graduação
+
+🍕 Apaixonado por transformar ideias em sistemas úteis 
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
+![Power BI](https://img.shields.io/badge/Power%20BI-f2c811?style=for-the-badge&logo=powerbi&logoColor=000)
+![AI](https://img.shields.io/badge/Inteligência%20Artificial-6a1b9a?style=for-the-badge&logo=ai&logoColor=white)
+
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 [**Sistema para Barbearias**](https://github.com/JosueCosta2023/fsw-barber-2024)  
+💈 Esta plataforma mobile foi desenvolvida no workshop da FullStackWeek e foi pensada para facilitar a interação entre barbearias e seus clientes. A aplicação permite que os usuários encontrem barbearias próximas, agendem serviços, e gerenciem suas reservas diretamente pelo aplicativo.
+
+🔹 [**Buscador de Cupons (Mobile)**](https://github.com/JosueCosta2023/nlw-mobile)  
+📱 App React Native com Expo para encontrar lojas e ler QR codes de desconto
+
+🔹 [**Sistema de Gestão Financeira - AI**](https://github.com/JosueCosta2023/finance-ai)  
+📱 O sistema é uma plataforma inovadora para gestão financeira pessoal e empresarial, que permite aos usuários monitorar e organizar suas transações de maneira prática e eficiente.
+
+Este sistema é destinado a:
+
+- `Empreendedores e Pequenos Empresários`
+Que precisam monitorar o fluxo de caixa e obter relatórios detalhados para análises financeiras mais profundas.
+
+- `Usuários Individuais`
+Que desejam organizar suas finanças pessoais, acompanhar gastos e gerenciar melhor seu orçamento.
+
+- `Profissionais Financeiros`
+Que buscam uma solução prática para gerenciar e visualizar transações de seus clientes de forma automatizada.
+
+---
+
+## 📈 GitHub Stats
+
+![Josué GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosueCosta2023&show_icons=true&theme=radical)
+
+---
+
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/josue-ocanha-costa/)
+[![Email](https://img.shields.io/badge/E-mail-ff6f61?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:contato_josuecosta@hotmail.com)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5565993408371)
+
+---
+
+*“Aprender, praticar e evoluir — todos os dias.”*
